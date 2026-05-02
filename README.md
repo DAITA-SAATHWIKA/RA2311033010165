@@ -2,8 +2,7 @@ ARCHITECTURE DESIGN
 
 
 Client ------> API ----->Service -----> DB
-               |
-               v
+                 ↓
              Queue -----> Worker
 
 
