@@ -1,0 +1,12 @@
+{
+  "name": "notification-app-be",
+  "version": "1.0.0",
+  "description": "Minimal backend placeholder",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
